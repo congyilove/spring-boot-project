@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.company.project.util.multithread;
+package com.cong.project.util.multithread;
 
 /**
  * @author admin
